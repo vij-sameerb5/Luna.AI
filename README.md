@@ -1,6 +1,9 @@
 About Luna.AI
 Inspiration The inspiration for Luna.AI emerged from the growing need for efficient and innovative writing solutions in an increasingly digital world. As writers, marketers, and content creators face overwhelming demands for high-quality content across various platforms, the desire for a tool that could streamline this process became evident. The concept of harnessing artificial intelligence to assist in writing not only captures the essence of modern technology but also addresses the challenges that many face in finding the time and resources to produce compelling content.
 
+you can check out the website here -> https://sameerluna.netlify.app/
+but dont ask where are the lgos and images - its gone :-
+
 <img width="1650" alt="Screenshot 2024-10-28 at 4 16 49 PM" src="https://github.com/user-attachments/assets/abeb620d-5663-4b89-98bb-de4e93083bf4">
 
 <img width="1650" alt="Screenshot 2024-10-28 at 4 17 34 PM" src="https://github.com/user-attachments/assets/fc52c0b9-98f0-44a3-9488-0c10324bbab8">
