@@ -3,6 +3,10 @@ Inspiration The inspiration for Luna.AI emerged from the growing need for effici
 
 <img width="1650" alt="Screenshot 2024-10-28 at 4 16 49 PM" src="https://github.com/user-attachments/assets/abeb620d-5663-4b89-98bb-de4e93083bf4">
 
+<img width="1650" alt="Screenshot 2024-10-28 at 4 17 34 PM" src="https://github.com/user-attachments/assets/fc52c0b9-98f0-44a3-9488-0c10324bbab8">
+
+<img width="1650" alt="Screenshot 2024-10-28 at 4 18 03 PM" src="https://github.com/user-attachments/assets/a9b54dfd-c62d-462d-9639-dee66155946a">
+
 Additionally, the team recognized the power of collaboration and the potential for creativity that exists when people are equipped with the right tools. Luna.AI was envisioned as a supportive workspace that empowers users to unleash their creativity without the burdens of technical complexities. By combining advanced AI capabilities with an intuitive user interface, Luna.AI aims to inspire writers to elevate their craft, explore new ideas, and ultimately revolutionize the way they approach writing.
 
 What it does
