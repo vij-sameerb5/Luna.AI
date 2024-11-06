@@ -1,12 +1,4 @@
 
-/*!
- * Webflow: Front-end site library
- * @license MIT
- * Inline scripts may access the api using an async handler:
- *   var Webflow = Webflow || [];
- *   Webflow.push(readyFunction);
- */
-
 (() => {
   var __create = Object.create;
   var __defProp = Object.defineProperty;
